@@ -4,7 +4,8 @@
 
 ##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
 
-
+* [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》]（http://download.csdn.net/download/l1505624/9875786）
+介绍： 机器学习，以及Scikit-Learn和Tensorflow在机器学习中的使用。
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
