@@ -6,7 +6,7 @@
 
 * [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》]（http://download.csdn.net/download/l1505624/9875786）
 
-介绍： 机器学习，以及Scikit-Learn和Tensorflow在机器学习中的使用。
+介绍:机器学习，以及Scikit-Learn和Tensorflow在机器学习中的使用。
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
